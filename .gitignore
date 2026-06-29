@@ -1,0 +1,23 @@
+# Environment variables (Secrets)
+.env
+
+# Python cache and files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+
+# Local media / Agent folders
+inputs/
+outputs/
+.agent/
+
+# IDE / System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
