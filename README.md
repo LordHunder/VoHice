@@ -32,7 +32,7 @@ L'applicazione ti permette di dettare frasi e parole in italiano e, tramite le i
    ```
 2. Un piccolo widget scuro apparirà in alto a destra. Questo widget rimarrà sempre in cima, indipendentemente dalla finestra in cui stai lavorando. Clicca sulla finestra e trascinalo come meglio preferisci.
 3. Posizionati nel campo di testo del programma in cui vuoi scrivere e accertati che il cursore stia lampeggiando lì.
-4. **Per trascrivere in italiano**: Controlla che il traduttore sia su "Traduzione: OFF".
-5. **Per tradurre in inglese livello madrelingua**: Fai clic sul pulsante della traduzione in modo che dica "Traduzione: ON".
+4. **Per trascrivere in italiano o nella tua lingua madre**: Controlla che il traduttore sia su "Traduzione: OFF".
+5. **Per tradurre in inglese livello madrelingua**: Fai clic sul pulsante della traduzione in modo che dica "Traduzione: ON" ; questo viene fatto per permettere di avere una trascrizione ottimizzata per i modelli IA.
 6. Clicca su **⏺ REC**, parla al tuo microfono, e poi clicca **⏹ STOP**.
 7. Attendi qualche istante, il led diventerà blu confermando l'attività dell'intelligenza artificiale e subito dopo la tastiera magicamente digiterà il testo senza traduzioni letterali rigide!
